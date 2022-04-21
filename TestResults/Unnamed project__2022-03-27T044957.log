@@ -1,0 +1,234 @@
+﻿2022-03-27T04:49:57.2481095+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-03-27T04:49:57.2482090+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework netcore31 in x64 mode execution started
+2022-03-27T04:49:57.2482134+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-03-27T04:49:57.2507008+01:00;VSTestExecutionThread;Info;Current UserName: 'zdanm', MachineName: 'LAPTOP-8VQRD06J'
+2022-03-27T04:49:57.2759847+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-03-27T04:49:57.2761829+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\zdanm\source\repos\Cams\TestResults" (default)
+2022-03-27T04:49:57.2762297+01:00;VSTestExecutionThread;Info;Profile: 
+2022-03-27T04:49:57.3201490+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\zdanm\source\repos\Cams\TestResults\Unnamed project__2022-03-27T044957.log
+2022-03-27T04:49:57.3234959+01:00;Thread#12;Info;Checking activation
+2022-03-27T04:49:57.4025569+01:00;Thread#12;Info;Activated.
+2022-03-27T04:49:57.4027827+01:00;Thread#12;Info;Activation check completed
+2022-03-27T04:49:57.4028383+01:00;Thread#12;Info;Starting test run
+2022-03-27T04:49:57.4832796+01:00;Thread#12;Info;Discovering target: Default
+2022-03-27T04:49:57.4835184+01:00;Thread#12;Info;Discovering tests from assembly: C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-03-27T04:49:57.6020998+01:00;Thread#12;Info;Discovered tests from assembly: C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-03-27T04:49:57.6033444+01:00:Test Suite Dump
+2022-03-27T04:49:57.6052494+01:00:#0: Unnamed project/ - 
+2022-03-27T04:49:57.6052823+01:00:#1: Default - 
+2022-03-27T04:49:57.6052855+01:00:#2: Cams - 
+2022-03-27T04:49:57.6052879+01:00:#5: Login - 
+2022-03-27T04:49:57.6065840+01:00:#6: Valid Login - TestAssembly:Cams/Feature:Login/Scenario:Valid+Login
+2022-03-27T04:49:57.6066229+01:00:End: Test Suite Dump
+2022-03-27T04:49:57.6223819+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-03-27T04:49:57.6236898+01:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2022-03-27T04:49:57.6237457+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2022-03-27T04:49:57.6266391+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2022-03-27T04:49:57.6266590+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2022-03-27T04:49:57.6266607+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2022-03-27T04:49:57.6266643+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2022-03-27T04:49:57.6272776+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2022-03-27T04:49:57.6300738+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-03-27T04:49:57.6318574+01:00:Thread #0: creating new test thread executor for Cams, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-03-27T04:49:57.6335352+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-03-27T04:49:57.6336769+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-03-27T04:49:57.6387457+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-03-27T04:49:57.6407074+01:00:starting Out Of Process Executor
+2022-03-27T04:49:57.6440675+01:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-03-27T04:49:57.6499059+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-03-27T04:49:57.6499436+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-03-27T04:49:57.6512552+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-03-27T04:49:57.6516914+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-03-27T04:49:57.6518536+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2022-03-27T04:49:57.6519216+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-03-27T04:49:57.6521397+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-03-27T04:49:57.6527226+01:00:Tfm: netcoreapp3.1
+2022-03-27T04:49:57.6527369+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-03-27T04:49:57.6527398+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-03-27T04:49:57.6528726+01:00:[AssemblyCache] Found file 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2022-03-27T04:49:57.6538550+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2022-03-27T04:49:57.6558047+01:00:Starting callback TCP Rpc server
+2022-03-27T04:49:57.6806994+01:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-03-27T04:49:57.6810372+01:00:Started callback TCP Rpc server on port 32768
+2022-03-27T04:49:57.6810499+01:00:Starting logger TCP Rpc server
+2022-03-27T04:49:57.6828828+01:00:Asynchronously starting background TCP Rpc Server on port 32769
+2022-03-27T04:49:57.6829113+01:00:Started logger TCP Rpc server on port 32769
+2022-03-27T04:49:57.7891176+01:00:Executing test executor at 'dotnet' 'exec "C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 21424 --uniqueId "2022-03-27T044957" --outputFolder "C:\Users\zdanm\source\repos\Cams\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-03-27T04:49:57.8025191+01:00:Executor with PID 7916 has been started successfully.
+2022-03-27T04:49:57.8148602+01:00:Out of Process Executor 7916 started
+2022-03-27T04:49:57.8148895+01:00:Waiting for endpoint
+2022-03-27T04:49:58.2516238+01:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-03-27T04:49:58.2516529+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-03-27T04:49:58.2516614+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-03-27T04:49:58.2516661+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-03-27T04:49:58.2516688+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-03-27T04:49:58.2517158+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2022-03-27T04:49:58.2517589+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-03-27T04:49:58.2517636+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-03-27T04:49:58.2518083+01:00:Tfm: netcoreapp3.1
+2022-03-27T04:49:58.2518128+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-03-27T04:49:58.2518151+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-03-27T04:49:58.2519091+01:00:[AssemblyCache] Found file 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2022-03-27T04:49:58.2527826+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2022-03-27T04:49:59.8993994+01:00:Remote executor port received: 32770
+2022-03-27T04:49:59.8999598+01:00:Creating executor TCP client on port 32770
+2022-03-27T04:49:59.9005108+01:00:Created executor TCP client on port 32770
+2022-03-27T04:49:59.9005263+01:00:Connecting to remote executor TCP server
+2022-03-27T04:49:59.9021054+01:00:Connected remote executor TCP server
+2022-03-27T04:49:59.9023762+01:00:trying to connect to Out of Process Executor the 1 attempt
+2022-03-27T04:49:59.9024021+01:00:Connection to Out of Process Executor established in the 1 attempt
+2022-03-27T04:50:00.1051196+01:00:2022-03-27T04:50:00.1041188+01:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll on test thread #0
+2022-03-27T04:50:00.1137731+01:00:Endpoint 7916 started
+2022-03-27T04:50:00.1407906+01:00:2022-03-27T04:50:00.1397956+01:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-03-27T04:50:00.2326600+01:00:2022-03-27T04:50:00.2322888+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-03-27T04:50:00.2360120+01:00:2022-03-27T04:50:00.2356103+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-03-27T04:50:00.2388359+01:00:2022-03-27T04:50:00.2385142+01:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\zdanm\.nuget\packages\specflow\3.9.58\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-03-27T04:50:00.3503188+01:00:2022-03-27T04:50:00.3498268+01:00:Thread#0:T:-> Loading plugin C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-03-27T04:50:00.3513861+01:00:2022-03-27T04:50:00.3510845+01:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-03-27T04:50:00.3517849+01:00:2022-03-27T04:50:00.3515867+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-03-27T04:50:00.3529957+01:00:2022-03-27T04:50:00.3525676+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\zdanm\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-03-27T04:50:00.3923271+01:00:2022-03-27T04:50:00.3918939+01:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-03-27T04:50:00.3945652+01:00:2022-03-27T04:50:00.3938513+01:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-03-27T04:50:00.3954347+01:00:2022-03-27T04:50:00.3952253+01:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\zdanm\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-03-27T04:50:00.4026465+01:00:2022-03-27T04:50:00.4021715+01:00:Thread#0:T:-> Loading plugin C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2022-03-27T04:50:00.4076119+01:00:2022-03-27T04:50:00.4072033+01:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-03-27T04:50:00.4081416+01:00:2022-03-27T04:50:00.4079052+01:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-03-27T04:50:00.4090436+01:00:2022-03-27T04:50:00.4086469+01:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\zdanm\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-03-27T04:50:00.4165602+01:00:2022-03-27T04:50:00.4161113+01:00:Thread#0:T:-> Loading plugin C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-03-27T04:50:00.4283369+01:00:2022-03-27T04:50:00.4278618+01:00:Thread#0:T:-> Using default config
+2022-03-27T04:50:00.4360624+01:00:2022-03-27T04:50:00.4355281+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-03-27T04:50:00.4407642+01:00:2022-03-27T04:50:00.4363113+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-03-27T04:50:00.4418443+01:00:2022-03-27T04:50:00.4414583+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\zdanm\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-03-27T04:50:00.4717465+01:00:2022-03-27T04:50:00.4707504+01:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-03-27T04:50:00.4734436+01:00:2022-03-27T04:50:00.4724524+01:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-03-27T04:50:00.4754547+01:00:2022-03-27T04:50:00.4743613+01:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\zdanm\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-03-27T04:50:00.5521775+01:00:Thread#0: Test #6/0 is started on thread #0
+2022-03-27T04:50:00.5722879+01:00:2022-03-27T04:50:00.5714197+01:00:Assembly resolving WebDriver, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2022-03-27T04:50:00.5732216+01:00:2022-03-27T04:50:00.5725600+01:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2022-03-27T04:50:00.5740222+01:00:2022-03-27T04:50:00.5737203+01:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\zdanm\.nuget\packages\selenium.webdriver\4.1.0\lib\netstandard2.1\WebDriver.dll'
+2022-03-27T04:50:01.1941518+01:00:2022-03-27T04:50:01.1895615+01:00:Assembly resolving Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+2022-03-27T04:50:01.1962284+01:00:2022-03-27T04:50:01.1953449+01:00:[AssemblyCache] Trying to resolve 'Newtonsoft.Json' from .deps.json file
+2022-03-27T04:50:01.1984228+01:00:2022-03-27T04:50:01.1975400+01:00:[AssemblyCache] Resolved 'Newtonsoft.Json' to 'C:\Users\zdanm\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll'
+2022-03-27T04:50:03.1906585+01:00:2022-03-27T04:50:03.1868617+01:00:Thread#0:B:Given user navigate to giftrete.com/qacams/
+2022-03-27T04:50:18.0742793+01:00:2022-03-27T04:50:18.0709103+01:00:Thread#0:T:done: LoginSteps.GivenUserNavigateToGiftrete_ComQacams() (14.8s)
+2022-03-27T04:50:18.0825445+01:00:2022-03-27T04:50:18.0808831+01:00:Thread#0:B:When i enter email "admin@cams.com"
+2022-03-27T04:50:18.2688916+01:00:2022-03-27T04:50:18.2682983+01:00:Thread#0:T:done: LoginSteps.WhenIEnterEmail("admin@cams.com") (0.2s)
+2022-03-27T04:50:18.2702922+01:00:2022-03-27T04:50:18.2698898+01:00:Thread#0:B:And i enter password "Test1234"
+2022-03-27T04:50:18.3568871+01:00:2022-03-27T04:50:18.3547820+01:00:Thread#0:T:done: LoginSteps.WhenIEnterPassword("Test1234") (0.1s)
+2022-03-27T04:50:18.3576252+01:00:2022-03-27T04:50:18.3573255+01:00:Thread#0:B:And i click on sign in button
+2022-03-27T04:50:18.4502181+01:00:2022-03-27T04:50:18.4406193+01:00:Thread#0:T:done: LoginSteps.WhenIClickOnSignInButton() (0.1s)
+2022-03-27T04:50:18.4529256+01:00:2022-03-27T04:50:18.4524213+01:00:Thread#0:B:Then the application page is displayed
+2022-03-27T04:50:18.4547356+01:00:2022-03-27T04:50:18.4543129+01:00:Assembly resolving nunit.framework, Version=3.13.3.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2022-03-27T04:50:18.4552928+01:00:2022-03-27T04:50:18.4549974+01:00:[AssemblyCache] Trying to resolve 'nunit.framework' from .deps.json file
+2022-03-27T04:50:18.4562568+01:00:2022-03-27T04:50:18.4559447+01:00:[AssemblyCache] Resolved 'nunit.framework' to 'C:\Users\zdanm\.nuget\packages\nunit\3.13.3\lib\netstandard2.0\nunit.framework.dll'
+2022-03-27T04:50:18.6197414+01:00:2022-03-27T04:50:18.6191551+01:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='kt_wrapper']"}
+2022-03-27T04:50:18.6204075+01:00:2022-03-27T04:50:18.6201034+01:00:Thread#0:T:  (Session info: chrome=99.0.4844.84) (0.2s)
+2022-03-27T04:50:18.6689449+01:00:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2022-03-27T04:50:18.6719055+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-03-27T04:50:18.6720157+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2022-03-27T04:50:18.6720306+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2022-03-27T04:50:18.6722025+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2022-03-27T04:50:18.6722160+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2022-03-27T04:50:18.6722218+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2022-03-27T04:50:18.6722278+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2022-03-27T04:50:18.6722972+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2022-03-27T04:50:18.6723756+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2022-03-27T04:50:18.9749397+01:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 18.4219906 seconds
+2022-03-27T04:50:18.9876713+01:00:Thread#0: Test #6/1 is started on thread #0
+2022-03-27T04:50:20.5397555+01:00:2022-03-27T04:50:20.5302533+01:00:Thread#0:B:Given user navigate to giftrete.com/qacams/
+2022-03-27T04:50:31.2544968+01:00:2022-03-27T04:50:31.2503953+01:00:Thread#0:T:done: LoginSteps.GivenUserNavigateToGiftrete_ComQacams() (10.7s)
+2022-03-27T04:50:31.2602854+01:00:2022-03-27T04:50:31.2581355+01:00:Thread#0:B:When i enter email "admin@cams.com"
+2022-03-27T04:50:31.3569331+01:00:2022-03-27T04:50:31.3526116+01:00:Thread#0:T:done: LoginSteps.WhenIEnterEmail("admin@cams.com") (0.1s)
+2022-03-27T04:50:31.3619303+01:00:2022-03-27T04:50:31.3592684+01:00:Thread#0:B:And i enter password "Test1234"
+2022-03-27T04:50:31.4430133+01:00:2022-03-27T04:50:31.4408748+01:00:Thread#0:T:done: LoginSteps.WhenIEnterPassword("Test1234") (0.1s)
+2022-03-27T04:50:31.4437257+01:00:2022-03-27T04:50:31.4434314+01:00:Thread#0:B:And i click on sign in button
+2022-03-27T04:50:31.4974999+01:00:2022-03-27T04:50:31.4969902+01:00:Thread#0:T:done: LoginSteps.WhenIClickOnSignInButton() (0.1s)
+2022-03-27T04:50:31.4984492+01:00:2022-03-27T04:50:31.4980329+01:00:Thread#0:B:Then the application page is displayed
+2022-03-27T04:50:31.5156877+01:00:2022-03-27T04:50:31.5152020+01:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='kt_wrapper']"}
+2022-03-27T04:50:31.5203482+01:00:2022-03-27T04:50:31.5161317+01:00:Thread#0:T:  (Session info: chrome=99.0.4844.84) (0.0s)
+2022-03-27T04:50:31.5239599+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-03-27T04:50:31.5240316+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2022-03-27T04:50:31.5240416+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2022-03-27T04:50:31.5242392+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2022-03-27T04:50:31.5242531+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2022-03-27T04:50:31.5242591+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2022-03-27T04:50:31.5242654+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2022-03-27T04:50:31.5243652+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2022-03-27T04:50:31.5244547+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2022-03-27T04:50:31.7398094+01:00:Thread#0: Test #6/1 is finished on thread #0 as Failed within 12.7519686 seconds
+2022-03-27T04:50:31.7410361+01:00:Thread#0: Test #6/2 is started on thread #0
+2022-03-27T04:50:33.1286707+01:00:2022-03-27T04:50:33.1273031+01:00:Thread#0:B:Given user navigate to giftrete.com/qacams/
+2022-03-27T04:50:44.8932188+01:00:2022-03-27T04:50:44.8892322+01:00:Thread#0:T:done: LoginSteps.GivenUserNavigateToGiftrete_ComQacams() (11.8s)
+2022-03-27T04:50:44.8979218+01:00:2022-03-27T04:50:44.8963501+01:00:Thread#0:B:When i enter email "admin@cams.com"
+2022-03-27T04:50:45.0225121+01:00:2022-03-27T04:50:45.0182511+01:00:Thread#0:T:done: LoginSteps.WhenIEnterEmail("admin@cams.com") (0.1s)
+2022-03-27T04:50:45.0287202+01:00:2022-03-27T04:50:45.0278589+01:00:Thread#0:B:And i enter password "Test1234"
+2022-03-27T04:50:45.1028284+01:00:2022-03-27T04:50:45.0988340+01:00:Thread#0:T:done: LoginSteps.WhenIEnterPassword("Test1234") (0.1s)
+2022-03-27T04:50:45.1042725+01:00:2022-03-27T04:50:45.1035850+01:00:Thread#0:B:And i click on sign in button
+2022-03-27T04:50:45.1603219+01:00:2022-03-27T04:50:45.1598213+01:00:Thread#0:T:done: LoginSteps.WhenIClickOnSignInButton() (0.1s)
+2022-03-27T04:50:45.1659513+01:00:2022-03-27T04:50:45.1611604+01:00:Thread#0:B:Then the application page is displayed
+2022-03-27T04:50:45.1844908+01:00:2022-03-27T04:50:45.1838063+01:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='kt_wrapper']"}
+2022-03-27T04:50:45.1852209+01:00:2022-03-27T04:50:45.1849555+01:00:Thread#0:T:  (Session info: chrome=99.0.4844.84) (0.0s)
+2022-03-27T04:50:45.1880095+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-03-27T04:50:45.1882398+01:00:Thread#:Scheduler: at the end of normal test queue
+2022-03-27T04:50:45.1883292+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-03-27T04:50:45.1883759+01:00:Thread#0:Scheduler: No more tests for thread
+2022-03-27T04:50:45.3983844+01:00:Thread#0: Test #6/2 is finished on thread #0 as Failed within 13.6571693 seconds
+2022-03-27T04:50:45.4059677+01:00:2022-03-27T04:50:45.4053698+01:00:Got Deinitialize Signal
+2022-03-27T04:50:45.4094870+01:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-03-27T04:50:45.4102515+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-03-27T04:50:45.4118930+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-03-27T04:50:45.4135842+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2022-03-27T04:50:45.4136073+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2022-03-27T04:50:45.4136142+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2022-03-27T04:50:45.4136235+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-03-27T04:50:45.4136275+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-03-27T04:50:45.4136707+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-03-27T04:50:45.4137023+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-03-27T04:50:45.4137133+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-03-27T04:50:45.4137922+01:00:Tfm: netcoreapp3.1
+2022-03-27T04:50:45.4137963+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-03-27T04:50:45.4137993+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-03-27T04:50:45.4138520+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-03-27T04:50:45.4138859+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-03-27T04:50:45.4196755+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23'
+2022-03-27T04:50:45.4196913+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\System.Diagnostics.Process.resources.dll'
+2022-03-27T04:50:45.4198934+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\System.Diagnostics.Process.resources.exe'
+2022-03-27T04:50:45.4199528+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23'
+2022-03-27T04:50:45.4203425+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23'
+2022-03-27T04:50:45.4203533+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.Process.resources.dll'
+2022-03-27T04:50:45.4204299+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.Process.resources.exe'
+2022-03-27T04:50:45.4204748+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23'
+2022-03-27T04:50:45.4206603+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23'
+2022-03-27T04:50:45.4206677+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23\System.Diagnostics.Process.resources.dll'
+2022-03-27T04:50:45.4210127+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23\System.Diagnostics.Process.resources.exe'
+2022-03-27T04:50:45.4210912+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23'
+2022-03-27T04:50:45.4229812+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2022-03-27T04:50:45.4292527+01:00:Thread#-1:Scheduler: get next test for thread -1
+2022-03-27T04:50:45.4292920+01:00:Thread#:Scheduler: at the end of normal test queue
+2022-03-27T04:50:45.4292943+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-03-27T04:50:45.4325487+01:00;Thread#12;Info;test run finished
+2022-03-27T04:50:45.4327767+01:00;Thread#12;Info;publishing test results
+2022-03-27T04:50:45.4328855+01:00;Thread#12;Info;Not publishing results.
+2022-03-27T04:50:45.4329264+01:00;Thread#12;Info;test results published
+2022-03-27T04:50:45.4329517+01:00;Thread#12;Info;generating reports
+2022-03-27T04:50:45.4948466+01:00;Thread#12;Info;Starting external report generation process
+2022-03-27T04:50:47.2054772+01:00;Thread#12;Info;Successfully generated reports.
+2022-03-27T04:50:47.2081461+01:00;Thread#12;Info;Successfully generated reports
+2022-03-27T04:50:47.2148868+01:00:Total: 1 (test executions: 3)
+2022-03-27T04:50:47.2161999+01:00:Succeeded: 0
+2022-03-27T04:50:47.2164103+01:00:Ignored: 0
+2022-03-27T04:50:47.2165734+01:00:Pending: 0
+2022-03-27T04:50:47.2165778+01:00:Skipped: 0
+2022-03-27T04:50:47.2167250+01:00:Failed: 1
+2022-03-27T04:50:47.2209373+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-03-27T04:50:47.2211129+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\zdanm\source\repos\Cams\TestResults\Unnamed project__2022-03-27T044957.html'
+========== End of log file ==========

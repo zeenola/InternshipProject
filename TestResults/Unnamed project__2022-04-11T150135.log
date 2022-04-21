@@ -1,0 +1,122 @@
+﻿2022-04-11T15:01:35.2719501+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-04-11T15:01:35.2721441+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework netcore31 in x64 mode execution started
+2022-04-11T15:01:35.2721516+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-04-11T15:01:35.2755388+01:00;VSTestExecutionThread;Info;Current UserName: 'zdanm', MachineName: 'LAPTOP-8VQRD06J'
+2022-04-11T15:01:35.3329485+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-04-11T15:01:35.3333833+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\zdanm\source\repos\Cams\TestResults" (default)
+2022-04-11T15:01:35.3336615+01:00;VSTestExecutionThread;Info;Profile: 
+2022-04-11T15:01:35.4723831+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\zdanm\source\repos\Cams\TestResults\Unnamed project__2022-04-11T150135.log
+2022-04-11T15:01:35.4877576+01:00;Thread#14;Info;Checking activation
+2022-04-11T15:01:35.7960633+01:00;Thread#14;Info;Activated.
+2022-04-11T15:01:35.7969673+01:00;Thread#14;Info;Activation check completed
+2022-04-11T15:01:35.7972740+01:00;Thread#14;Info;Starting test run
+2022-04-11T15:01:36.3358575+01:00;Thread#14;Info;Discovering target: Default
+2022-04-11T15:01:36.3362304+01:00;Thread#14;Info;Discovering tests from assembly: C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-04-11T15:01:36.7610582+01:00;Thread#14;Info;Discovered tests from assembly: C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-04-11T15:01:36.7633072+01:00:Test Suite Dump
+2022-04-11T15:01:36.7658435+01:00:#0: Unnamed project/ - 
+2022-04-11T15:01:36.7658909+01:00:#1: Default - 
+2022-04-11T15:01:36.7658947+01:00:#2: Cams - 
+2022-04-11T15:01:36.7658978+01:00:#6: AddPayment - 
+2022-04-11T15:01:36.7691092+01:00:#7: Valid AddPayment - TestAssembly:Cams/Feature:AddPayment/Scenario:Valid+AddPayment
+2022-04-11T15:01:36.7691819+01:00:#8: Invalid AddPayment - TestAssembly:Cams/Feature:AddPayment/Scenario:Invalid+AddPayment
+2022-04-11T15:01:36.7692334+01:00:End: Test Suite Dump
+2022-04-11T15:01:36.7946910+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-04-11T15:01:36.7974643+01:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2022-04-11T15:01:36.7975581+01:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2022-04-11T15:01:36.8033633+01:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2022-04-11T15:01:36.8034000+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2022-04-11T15:01:36.8034027+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2022-04-11T15:01:36.8034089+01:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2022-04-11T15:01:36.8040422+01:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2022-04-11T15:01:36.8050040+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-04-11T15:01:36.8067806+01:00:Thread #0: creating new test thread executor for Cams, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-04-11T15:01:36.8089110+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-04-11T15:01:36.8091142+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-04-11T15:01:37.1374484+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-04-11T15:01:37.1409782+01:00:starting Out Of Process Executor
+2022-04-11T15:01:37.1935272+01:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-11T15:01:37.1979842+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-04-11T15:01:37.1980442+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-04-11T15:01:37.1994311+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-11T15:01:37.2001983+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-04-11T15:01:37.2003807+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2022-04-11T15:01:37.2005029+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-11T15:01:37.2009580+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-04-11T15:01:37.2022403+01:00:Tfm: netcoreapp3.1
+2022-04-11T15:01:37.2022801+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-11T15:01:37.2022843+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-04-11T15:01:37.2024731+01:00:[AssemblyCache] Found file 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2022-04-11T15:01:37.2462585+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2022-04-11T15:01:37.2476261+01:00:Starting callback TCP Rpc server
+2022-04-11T15:01:37.2883725+01:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-04-11T15:01:37.2891657+01:00:Started callback TCP Rpc server on port 32768
+2022-04-11T15:01:37.2891862+01:00:Starting logger TCP Rpc server
+2022-04-11T15:01:37.2907650+01:00:Asynchronously starting background TCP Rpc Server on port 32769
+2022-04-11T15:01:37.2908314+01:00:Started logger TCP Rpc server on port 32769
+2022-04-11T15:01:37.3951031+01:00;Thread#14;Info;Executor full path resolved: C:\Program Files\dotnet\dotnet.exe
+2022-04-11T15:01:37.3982687+01:00;Thread#14;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2022-04-11T15:01:37.4780115+01:00;Thread#14;Info;Successfully started SpecFlow+ Runner executor process
+2022-04-11T15:01:37.4844272+01:00:Out of Process Executor 16336 started
+2022-04-11T15:01:37.4844559+01:00:Waiting for endpoint
+2022-04-11T15:01:39.5439646+01:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-11T15:01:39.5440731+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-04-11T15:01:39.5440793+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-04-11T15:01:39.5440897+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-11T15:01:39.5440930+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-04-11T15:01:39.5441313+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2022-04-11T15:01:39.5441680+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-11T15:01:39.5441776+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-04-11T15:01:39.5443105+01:00:Tfm: netcoreapp3.1
+2022-04-11T15:01:39.5443326+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-11T15:01:39.5443355+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-04-11T15:01:39.5444021+01:00:[AssemblyCache] Found file 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2022-04-11T15:01:39.5643162+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2022-04-11T15:01:39.9777927+01:00:Remote executor port received: 32770
+2022-04-11T15:01:39.9781653+01:00:Creating executor TCP client on port 32770
+2022-04-11T15:01:39.9785082+01:00:Created executor TCP client on port 32770
+2022-04-11T15:01:39.9785152+01:00:Connecting to remote executor TCP server
+2022-04-11T15:01:39.9798004+01:00:Connected remote executor TCP server
+2022-04-11T15:01:39.9800828+01:00:trying to connect to Out of Process Executor the 1 attempt
+2022-04-11T15:01:39.9800922+01:00:Connection to Out of Process Executor established in the 1 attempt
+2022-04-11T15:01:40.2256546+01:00:2022-04-11T15:01:40.2226561+01:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll on test thread #0
+2022-04-11T15:01:40.2327378+01:00:Endpoint 16336 started
+2022-04-11T15:01:40.2529009+01:00:2022-04-11T15:01:40.2517052+01:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-04-11T15:01:40.3547755+01:00:2022-04-11T15:01:40.3539505+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-04-11T15:01:40.3587931+01:00:2022-04-11T15:01:40.3577719+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-04-11T15:01:40.3630045+01:00:2022-04-11T15:01:40.3621304+01:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\zdanm\.nuget\packages\specflow\3.9.58\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-04-11T15:01:40.5232354+01:00:2022-04-11T15:01:40.5224351+01:00:Thread#0:T:-> Loading plugin C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-04-11T15:01:40.5258635+01:00:2022-04-11T15:01:40.5251239+01:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-04-11T15:01:40.5278836+01:00:2022-04-11T15:01:40.5268192+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-04-11T15:01:40.5300204+01:00:2022-04-11T15:01:40.5290619+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\zdanm\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-04-11T15:01:40.5932291+01:00:2022-04-11T15:01:40.5918626+01:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-04-11T15:01:40.5958445+01:00:2022-04-11T15:01:40.5950473+01:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-04-11T15:01:40.6022832+01:00:2022-04-11T15:01:40.6013483+01:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\zdanm\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-04-11T15:01:40.6159596+01:00:2022-04-11T15:01:40.6151507+01:00:Thread#0:T:-> Loading plugin C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2022-04-11T15:01:40.8292700+01:00:2022-04-11T15:01:40.8276153+01:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-04-11T15:01:40.8330180+01:00:2022-04-11T15:01:40.8315251+01:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-04-11T15:01:40.8362420+01:00:2022-04-11T15:01:40.8348689+01:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\zdanm\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-04-11T15:01:40.8507297+01:00:2022-04-11T15:01:40.8491322+01:00:Thread#0:T:-> Loading plugin C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-04-11T15:01:41.0763630+01:00:2022-04-11T15:01:41.0743575+01:00:Thread#0:T:-> Using default config
+2022-04-11T15:01:41.0911127+01:00:2022-04-11T15:01:41.0898003+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-11T15:01:41.0933955+01:00:2022-04-11T15:01:41.0924023+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-04-11T15:01:41.0963675+01:00:2022-04-11T15:01:41.0951539+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\zdanm\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-04-11T15:01:41.1545709+01:00:2022-04-11T15:01:41.1534633+01:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-04-11T15:01:41.1556248+01:00:2022-04-11T15:01:41.1552274+01:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-04-11T15:01:41.1567280+01:00:2022-04-11T15:01:41.1563657+01:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\zdanm\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-04-11T15:01:41.2575208+01:00:Thread#0: Test #7/0 is started on thread #0
+2022-04-11T15:01:41.2829139+01:00:2022-04-11T15:01:41.2822954+01:00:Assembly resolving WebDriver, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2022-04-11T15:01:41.2838631+01:00:2022-04-11T15:01:41.2834612+01:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2022-04-11T15:01:41.2855335+01:00:2022-04-11T15:01:41.2849932+01:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\zdanm\.nuget\packages\selenium.webdriver\4.1.0\lib\netstandard2.1\WebDriver.dll'
+2022-04-11T15:01:42.2416966+01:00:2022-04-11T15:01:42.2399825+01:00:Assembly resolving Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+2022-04-11T15:01:42.2443629+01:00:2022-04-11T15:01:42.2436669+01:00:[AssemblyCache] Trying to resolve 'Newtonsoft.Json' from .deps.json file
+2022-04-11T15:01:42.2485470+01:00:2022-04-11T15:01:42.2477299+01:00:[AssemblyCache] Resolved 'Newtonsoft.Json' to 'C:\Users\zdanm\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll'
+2022-04-11T15:01:44.8074949+01:00:2022-04-11T15:01:44.7930327+01:00:Thread#0:B:Given user navigate to giftrete.com/qacams/
+2022-04-11T15:01:48.1508327+01:00:2022-04-11T15:01:48.1483834+01:00:Thread#0:T:done: LoginSteps.GivenUserNavigateToGiftrete_ComQacams() (3.3s)
+2022-04-11T15:01:48.1605615+01:00:2022-04-11T15:01:48.1552319+01:00:Thread#0:B:When i enter email "admin@cams.com"
+2022-04-11T15:01:48.3316680+01:00:2022-04-11T15:01:48.3299945+01:00:Thread#0:T:done: LoginSteps.WhenIEnterEmail("admin@cams.com") (0.2s)
+2022-04-11T15:01:48.3339202+01:00:2022-04-11T15:01:48.3332873+01:00:Thread#0:B:And i enter password "Test1234"
+2022-04-11T15:01:48.4273973+01:00:2022-04-11T15:01:48.4250008+01:00:Thread#0:T:done: LoginSteps.WhenIEnterPassword("Test1234") (0.1s)
+2022-04-11T15:01:48.4286600+01:00:2022-04-11T15:01:48.4281688+01:00:Thread#0:B:And i click on sign in button
+2022-04-11T15:01:48.5219863+01:00:2022-04-11T15:01:48.5190541+01:00:Thread#0:T:done: LoginSteps.WhenIClickOnSignInButton() (0.1s)
+2022-04-11T15:01:48.5260288+01:00:2022-04-11T15:01:48.5229133+01:00:Thread#0:B:And i enter amount "20.00"

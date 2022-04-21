@@ -1,0 +1,321 @@
+﻿2022-04-05T18:27:37.2471636+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-04-05T18:27:37.2472314+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework netcore31 in x64 mode execution started
+2022-04-05T18:27:37.2472347+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-04-05T18:27:37.2497670+01:00;VSTestExecutionThread;Info;Current UserName: 'zdanm', MachineName: 'LAPTOP-8VQRD06J'
+2022-04-05T18:27:37.2795160+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-04-05T18:27:37.2797139+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\zdanm\source\repos\Cams\TestResults" (default)
+2022-04-05T18:27:37.2797628+01:00;VSTestExecutionThread;Info;Profile: 
+2022-04-05T18:27:37.3355257+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\zdanm\source\repos\Cams\TestResults\Unnamed project__2022-04-05T182737.log
+2022-04-05T18:27:37.3390229+01:00;Thread#12;Info;Checking activation
+2022-04-05T18:27:37.4461578+01:00;Thread#12;Info;Activated.
+2022-04-05T18:27:37.4463836+01:00;Thread#12;Info;Activation check completed
+2022-04-05T18:27:37.4464335+01:00;Thread#12;Info;Starting test run
+2022-04-05T18:27:37.5227410+01:00;Thread#12;Info;Discovering target: Default
+2022-04-05T18:27:37.5230237+01:00;Thread#12;Info;Discovering tests from assembly: C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-04-05T18:27:37.6645674+01:00;Thread#12;Info;Discovered tests from assembly: C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-04-05T18:27:37.6660365+01:00:Test Suite Dump
+2022-04-05T18:27:37.6683092+01:00:#0: Unnamed project/ - 
+2022-04-05T18:27:37.6683448+01:00:#1: Default - 
+2022-04-05T18:27:37.6683481+01:00:#2: Cams - 
+2022-04-05T18:27:37.6683508+01:00:#3: AddMember - 
+2022-04-05T18:27:37.6692684+01:00:#4: Valid AddMember - TestAssembly:Cams/Feature:AddMember/Scenario:Valid+AddMember
+2022-04-05T18:27:37.6693092+01:00:End: Test Suite Dump
+2022-04-05T18:27:37.6887654+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-04-05T18:27:37.6912775+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-04-05T18:27:37.6920015+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-04-05T18:27:37.6954252+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-04-05T18:27:37.6954487+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-04-05T18:27:37.6954507+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-04-05T18:27:37.6954545+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-04-05T18:27:37.6959803+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-04-05T18:27:37.6966479+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-04-05T18:27:37.6982248+01:00:Thread #0: creating new test thread executor for Cams, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-04-05T18:27:37.6999564+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-04-05T18:27:37.7000882+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-04-05T18:27:37.9210642+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-04-05T18:27:37.9303900+01:00:starting Out Of Process Executor
+2022-04-05T18:27:37.9496785+01:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-05T18:27:37.9542482+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-04-05T18:27:37.9545132+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-04-05T18:27:37.9585876+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-05T18:27:37.9596788+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-04-05T18:27:37.9604423+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2022-04-05T18:27:37.9605516+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-05T18:27:37.9607894+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-04-05T18:27:37.9627593+01:00:Tfm: netcoreapp3.1
+2022-04-05T18:27:37.9627965+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-05T18:27:37.9628009+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-04-05T18:27:37.9629047+01:00:[AssemblyCache] Found file 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2022-04-05T18:27:37.9803271+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2022-04-05T18:27:37.9811589+01:00:Starting callback TCP Rpc server
+2022-04-05T18:27:38.0140152+01:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-04-05T18:27:38.0143405+01:00:Started callback TCP Rpc server on port 32768
+2022-04-05T18:27:38.0143545+01:00:Starting logger TCP Rpc server
+2022-04-05T18:27:38.0193203+01:00:Asynchronously starting background TCP Rpc Server on port 32769
+2022-04-05T18:27:38.0194043+01:00:Started logger TCP Rpc server on port 32769
+2022-04-05T18:27:38.1207206+01:00:Executing test executor at 'dotnet' 'exec "C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 22016 --uniqueId "2022-04-05T182737" --outputFolder "C:\Users\zdanm\source\repos\Cams\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-05T18:27:38.1363905+01:00:Executor with PID 18028 has been started successfully.
+2022-04-05T18:27:38.1435036+01:00:Out of Process Executor 18028 started
+2022-04-05T18:27:38.1435262+01:00:Waiting for endpoint
+2022-04-05T18:27:40.1499803+01:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-05T18:27:40.1500133+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-04-05T18:27:40.1500254+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-04-05T18:27:40.1500308+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-05T18:27:40.1500339+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-04-05T18:27:40.1500705+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2022-04-05T18:27:40.1501053+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-05T18:27:40.1501097+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-04-05T18:27:40.1501512+01:00:Tfm: netcoreapp3.1
+2022-04-05T18:27:40.1501573+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-05T18:27:40.1501606+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-04-05T18:27:40.1502438+01:00:[AssemblyCache] Found file 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2022-04-05T18:27:40.1677161+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2022-04-05T18:27:40.3971569+01:00:Remote executor port received: 32770
+2022-04-05T18:27:40.3974195+01:00:Creating executor TCP client on port 32770
+2022-04-05T18:27:40.3977146+01:00:Created executor TCP client on port 32770
+2022-04-05T18:27:40.3977224+01:00:Connecting to remote executor TCP server
+2022-04-05T18:27:40.3985665+01:00:Connected remote executor TCP server
+2022-04-05T18:27:40.3986908+01:00:trying to connect to Out of Process Executor the 1 attempt
+2022-04-05T18:27:40.3987043+01:00:Connection to Out of Process Executor established in the 1 attempt
+2022-04-05T18:27:40.6408487+01:00:2022-04-05T18:27:40.6361379+01:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll on test thread #0
+2022-04-05T18:27:40.6456115+01:00:Endpoint 18028 started
+2022-04-05T18:27:40.6770078+01:00:2022-04-05T18:27:40.6765137+01:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-04-05T18:27:40.7624907+01:00:2022-04-05T18:27:40.7621188+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-04-05T18:27:40.7648559+01:00:2022-04-05T18:27:40.7645919+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-04-05T18:27:40.7670094+01:00:2022-04-05T18:27:40.7667583+01:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\zdanm\.nuget\packages\specflow\3.9.58\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-04-05T18:27:40.8905125+01:00:2022-04-05T18:27:40.8900810+01:00:Thread#0:T:-> Loading plugin C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\Cams.dll
+2022-04-05T18:27:40.8916318+01:00:2022-04-05T18:27:40.8912715+01:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-04-05T18:27:40.8920289+01:00:2022-04-05T18:27:40.8918392+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-04-05T18:27:40.8932681+01:00:2022-04-05T18:27:40.8927886+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\zdanm\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-04-05T18:27:40.9278396+01:00:2022-04-05T18:27:40.9274146+01:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-04-05T18:27:40.9283369+01:00:2022-04-05T18:27:40.9280981+01:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-04-05T18:27:40.9294663+01:00:2022-04-05T18:27:40.9292008+01:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\zdanm\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-04-05T18:27:40.9369737+01:00:2022-04-05T18:27:40.9364067+01:00:Thread#0:T:-> Loading plugin C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2022-04-05T18:27:41.1085747+01:00:2022-04-05T18:27:41.1070811+01:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-04-05T18:27:41.1103570+01:00:2022-04-05T18:27:41.1095989+01:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-04-05T18:27:41.1120925+01:00:2022-04-05T18:27:41.1114534+01:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\zdanm\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-04-05T18:27:41.1180586+01:00:2022-04-05T18:27:41.1169470+01:00:Thread#0:T:-> Loading plugin C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-04-05T18:27:41.3159843+01:00:2022-04-05T18:27:41.3150617+01:00:Thread#0:T:-> Using default config
+2022-04-05T18:27:41.3280120+01:00:2022-04-05T18:27:41.3271347+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-05T18:27:41.3316007+01:00:2022-04-05T18:27:41.3286208+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-04-05T18:27:41.3329805+01:00:2022-04-05T18:27:41.3324481+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\zdanm\.nuget\packages\microsoft.testplatform.objectmodel\17.1.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-04-05T18:27:41.3737244+01:00:2022-04-05T18:27:41.3728586+01:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-04-05T18:27:41.3743633+01:00:2022-04-05T18:27:41.3740218+01:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-04-05T18:27:41.3755278+01:00:2022-04-05T18:27:41.3751463+01:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\zdanm\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-04-05T18:27:41.4561537+01:00:Thread#0: Test #4/0 is started on thread #0
+2022-04-05T18:27:41.4780377+01:00:2022-04-05T18:27:41.4774748+01:00:Assembly resolving WebDriver, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2022-04-05T18:27:41.4791568+01:00:2022-04-05T18:27:41.4788234+01:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2022-04-05T18:27:41.4801244+01:00:2022-04-05T18:27:41.4796880+01:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\zdanm\.nuget\packages\selenium.webdriver\4.1.0\lib\netstandard2.1\WebDriver.dll'
+2022-04-05T18:27:42.5589592+01:00:2022-04-05T18:27:42.5573332+01:00:Assembly resolving Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+2022-04-05T18:27:42.5601831+01:00:2022-04-05T18:27:42.5598073+01:00:[AssemblyCache] Trying to resolve 'Newtonsoft.Json' from .deps.json file
+2022-04-05T18:27:42.5610164+01:00:2022-04-05T18:27:42.5607073+01:00:[AssemblyCache] Resolved 'Newtonsoft.Json' to 'C:\Users\zdanm\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll'
+2022-04-05T18:27:44.8192256+01:00:2022-04-05T18:27:44.8164197+01:00:Thread#0:B:Given user navigate to giftrete.com/qacams/
+2022-04-05T18:27:47.1100886+01:00:2022-04-05T18:27:47.1061489+01:00:Thread#0:T:done: LoginSteps.GivenUserNavigateToGiftrete_ComQacams() (2.3s)
+2022-04-05T18:27:47.1176868+01:00:2022-04-05T18:27:47.1145695+01:00:Thread#0:B:When i enter email "admin@cams.com"
+2022-04-05T18:27:47.3035880+01:00:2022-04-05T18:27:47.3010315+01:00:Thread#0:T:done: LoginSteps.WhenIEnterEmail("admin@cams.com") (0.2s)
+2022-04-05T18:27:47.3056984+01:00:2022-04-05T18:27:47.3052031+01:00:Thread#0:B:And i enter password "Test1234"
+2022-04-05T18:27:47.3946438+01:00:2022-04-05T18:27:47.3930941+01:00:Thread#0:T:done: LoginSteps.WhenIEnterPassword("Test1234") (0.1s)
+2022-04-05T18:27:47.3955617+01:00:2022-04-05T18:27:47.3952108+01:00:Thread#0:B:And i click on sign in button
+2022-04-05T18:27:47.5132055+01:00:2022-04-05T18:27:47.5099147+01:00:Thread#0:T:done: LoginSteps.WhenIClickOnSignInButton() (0.1s)
+2022-04-05T18:27:47.5220009+01:00:2022-04-05T18:27:47.5215881+01:00:Thread#0:B:And i click on members records button
+2022-04-05T18:27:47.7107238+01:00:2022-04-05T18:27:47.7094542+01:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Members Records']"}
+2022-04-05T18:27:47.7740196+01:00:2022-04-05T18:27:47.7119746+01:00:Thread#0:T:  (Session info: chrome=100.0.4896.75) (0.2s)
+2022-04-05T18:27:47.8367772+01:00:2022-04-05T18:27:47.7773745+01:00:Thread#0:B:And i click on add member button
+2022-04-05T18:27:47.8562864+01:00:2022-04-05T18:27:47.8396530+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:47.8717289+01:00:2022-04-05T18:27:47.8625713+01:00:Thread#0:B:And i enter lastname "Jones"
+2022-04-05T18:27:47.8767030+01:00:2022-04-05T18:27:47.8731544+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:47.8883150+01:00:2022-04-05T18:27:47.8775048+01:00:Thread#0:B:And i enter firstname "Ronke"
+2022-04-05T18:27:47.8933528+01:00:2022-04-05T18:27:47.8895251+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:47.9718109+01:00:2022-04-05T18:27:47.9607165+01:00:Thread#0:B:And i click on gender dropdown arrow
+2022-04-05T18:27:47.9788820+01:00:2022-04-05T18:27:47.9725563+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.0017355+01:00:2022-04-05T18:27:47.9851692+01:00:Thread#0:B:And i select gender
+2022-04-05T18:27:48.0559889+01:00:2022-04-05T18:27:48.0051905+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.1731770+01:00:2022-04-05T18:27:48.0678709+01:00:Thread#0:B:And i click on marital status dropdown
+2022-04-05T18:27:48.2568682+01:00:2022-04-05T18:27:48.1916513+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.3199767+01:00:2022-04-05T18:27:48.2774135+01:00:Thread#0:B:And i select marital status
+2022-04-05T18:27:48.3828382+01:00:2022-04-05T18:27:48.3227361+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.3859021+01:00:2022-04-05T18:27:48.3853587+01:00:Thread#0:B:And i enter member email "ronke@gmail.com"
+2022-04-05T18:27:48.3866242+01:00:2022-04-05T18:27:48.3863832+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.3870860+01:00:2022-04-05T18:27:48.3869096+01:00:Thread#0:B:And i enter phone number "07559202561"
+2022-04-05T18:27:48.3876652+01:00:2022-04-05T18:27:48.3873872+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.3880228+01:00:2022-04-05T18:27:48.3878663+01:00:Thread#0:B:And i enter home address "2 Basket street"
+2022-04-05T18:27:48.3885471+01:00:2022-04-05T18:27:48.3883433+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.3890987+01:00:2022-04-05T18:27:48.3888953+01:00:Thread#0:B:And i enter Date of Birth "03/08/2000"
+2022-04-05T18:27:48.3895879+01:00:2022-04-05T18:27:48.3894064+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.3900620+01:00:2022-04-05T18:27:48.3898721+01:00:Thread#0:B:And i click on choose file to add picture
+2022-04-05T18:27:48.3909289+01:00:2022-04-05T18:27:48.3904703+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.3924152+01:00:2022-04-05T18:27:48.3920110+01:00:Thread#0:B:And the picture is uploaded
+2022-04-05T18:27:48.3937628+01:00:2022-04-05T18:27:48.3934278+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.3955555+01:00:2022-04-05T18:27:48.3941276+01:00:Thread#0:B:And i click on save
+2022-04-05T18:27:48.3962981+01:00:2022-04-05T18:27:48.3959170+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.3974532+01:00:2022-04-05T18:27:48.3970499+01:00:Thread#0:B:Then Member added Successfully message is displayed
+2022-04-05T18:27:48.4005473+01:00:2022-04-05T18:27:48.3997558+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:48.4452661+01:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2022-04-05T18:27:48.4535988+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-04-05T18:27:48.4537483+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2022-04-05T18:27:48.4537537+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-04-05T18:27:48.4539735+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-04-05T18:27:48.4539821+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-04-05T18:27:48.4539841+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-04-05T18:27:48.4539865+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-04-05T18:27:48.4540314+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-04-05T18:27:48.4540853+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2022-04-05T18:27:49.0879057+01:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 7.6305775 seconds
+2022-04-05T18:27:49.0928113+01:00:Thread#0: Test #4/1 is started on thread #0
+2022-04-05T18:27:51.2238205+01:00:2022-04-05T18:27:51.2166046+01:00:Thread#0:B:Given user navigate to giftrete.com/qacams/
+2022-04-05T18:27:53.7689183+01:00:2022-04-05T18:27:53.7659001+01:00:Thread#0:T:done: LoginSteps.GivenUserNavigateToGiftrete_ComQacams() (2.5s)
+2022-04-05T18:27:53.7723528+01:00:2022-04-05T18:27:53.7706961+01:00:Thread#0:B:When i enter email "admin@cams.com"
+2022-04-05T18:27:53.9142226+01:00:2022-04-05T18:27:53.9116485+01:00:Thread#0:T:done: LoginSteps.WhenIEnterEmail("admin@cams.com") (0.1s)
+2022-04-05T18:27:53.9166332+01:00:2022-04-05T18:27:53.9158618+01:00:Thread#0:B:And i enter password "Test1234"
+2022-04-05T18:27:54.0002748+01:00:2022-04-05T18:27:53.9972025+01:00:Thread#0:T:done: LoginSteps.WhenIEnterPassword("Test1234") (0.1s)
+2022-04-05T18:27:54.0015600+01:00:2022-04-05T18:27:54.0012414+01:00:Thread#0:B:And i click on sign in button
+2022-04-05T18:27:54.0849351+01:00:2022-04-05T18:27:54.0817637+01:00:Thread#0:T:done: LoginSteps.WhenIClickOnSignInButton() (0.1s)
+2022-04-05T18:27:54.0855497+01:00:2022-04-05T18:27:54.0853122+01:00:Thread#0:B:And i click on members records button
+2022-04-05T18:27:54.1028563+01:00:2022-04-05T18:27:54.1024057+01:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Members Records']"}
+2022-04-05T18:27:54.1040791+01:00:2022-04-05T18:27:54.1035393+01:00:Thread#0:T:  (Session info: chrome=100.0.4896.75) (0.0s)
+2022-04-05T18:27:54.1051668+01:00:2022-04-05T18:27:54.1048865+01:00:Thread#0:B:And i click on add member button
+2022-04-05T18:27:54.1061185+01:00:2022-04-05T18:27:54.1055758+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1072300+01:00:2022-04-05T18:27:54.1064807+01:00:Thread#0:B:And i enter lastname "Jones"
+2022-04-05T18:27:54.1084817+01:00:2022-04-05T18:27:54.1077657+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1105951+01:00:2022-04-05T18:27:54.1091251+01:00:Thread#0:B:And i enter firstname "Ronke"
+2022-04-05T18:27:54.1147480+01:00:2022-04-05T18:27:54.1134080+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1154560+01:00:2022-04-05T18:27:54.1152307+01:00:Thread#0:B:And i click on gender dropdown arrow
+2022-04-05T18:27:54.1158499+01:00:2022-04-05T18:27:54.1157048+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1161641+01:00:2022-04-05T18:27:54.1160433+01:00:Thread#0:B:And i select gender
+2022-04-05T18:27:54.1164456+01:00:2022-04-05T18:27:54.1163345+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1166807+01:00:2022-04-05T18:27:54.1165872+01:00:Thread#0:B:And i click on marital status dropdown
+2022-04-05T18:27:54.1169418+01:00:2022-04-05T18:27:54.1168100+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1171821+01:00:2022-04-05T18:27:54.1170641+01:00:Thread#0:B:And i select marital status
+2022-04-05T18:27:54.1174655+01:00:2022-04-05T18:27:54.1173351+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1177953+01:00:2022-04-05T18:27:54.1176493+01:00:Thread#0:B:And i enter member email "ronke@gmail.com"
+2022-04-05T18:27:54.1181594+01:00:2022-04-05T18:27:54.1179592+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1198757+01:00:2022-04-05T18:27:54.1185493+01:00:Thread#0:B:And i enter phone number "07559202561"
+2022-04-05T18:27:54.1204808+01:00:2022-04-05T18:27:54.1202895+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1208757+01:00:2022-04-05T18:27:54.1206977+01:00:Thread#0:B:And i enter home address "2 Basket street"
+2022-04-05T18:27:54.1212315+01:00:2022-04-05T18:27:54.1210786+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1214915+01:00:2022-04-05T18:27:54.1213863+01:00:Thread#0:B:And i enter Date of Birth "03/08/2000"
+2022-04-05T18:27:54.1217459+01:00:2022-04-05T18:27:54.1216355+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1219846+01:00:2022-04-05T18:27:54.1218866+01:00:Thread#0:B:And i click on choose file to add picture
+2022-04-05T18:27:54.1222443+01:00:2022-04-05T18:27:54.1221422+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1225576+01:00:2022-04-05T18:27:54.1223816+01:00:Thread#0:B:And the picture is uploaded
+2022-04-05T18:27:54.1228516+01:00:2022-04-05T18:27:54.1227396+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1231121+01:00:2022-04-05T18:27:54.1229751+01:00:Thread#0:B:And i click on save
+2022-04-05T18:27:54.1234522+01:00:2022-04-05T18:27:54.1232936+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1237885+01:00:2022-04-05T18:27:54.1236511+01:00:Thread#0:B:Then Member added Successfully message is displayed
+2022-04-05T18:27:54.1241198+01:00:2022-04-05T18:27:54.1239582+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:54.1311613+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-04-05T18:27:54.1312740+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2022-04-05T18:27:54.1313030+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-04-05T18:27:54.1315392+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-04-05T18:27:54.1315512+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-04-05T18:27:54.1315542+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-04-05T18:27:54.1315586+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-04-05T18:27:54.1317595+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-04-05T18:27:54.1318473+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2022-04-05T18:27:55.1590559+01:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 6.0660294 seconds
+2022-04-05T18:27:55.1615199+01:00:Thread#0: Test #4/2 is started on thread #0
+2022-04-05T18:27:56.8424126+01:00:2022-04-05T18:27:56.8180281+01:00:Thread#0:B:Given user navigate to giftrete.com/qacams/
+2022-04-05T18:27:59.1130010+01:00:2022-04-05T18:27:59.1119547+01:00:Thread#0:T:done: LoginSteps.GivenUserNavigateToGiftrete_ComQacams() (2.3s)
+2022-04-05T18:27:59.1152326+01:00:2022-04-05T18:27:59.1148211+01:00:Thread#0:B:When i enter email "admin@cams.com"
+2022-04-05T18:27:59.2199148+01:00:2022-04-05T18:27:59.2192628+01:00:Thread#0:T:done: LoginSteps.WhenIEnterEmail("admin@cams.com") (0.1s)
+2022-04-05T18:27:59.2210429+01:00:2022-04-05T18:27:59.2204987+01:00:Thread#0:B:And i enter password "Test1234"
+2022-04-05T18:27:59.3080311+01:00:2022-04-05T18:27:59.3058145+01:00:Thread#0:T:done: LoginSteps.WhenIEnterPassword("Test1234") (0.1s)
+2022-04-05T18:27:59.3087737+01:00:2022-04-05T18:27:59.3084224+01:00:Thread#0:B:And i click on sign in button
+2022-04-05T18:27:59.3861072+01:00:2022-04-05T18:27:59.3809257+01:00:Thread#0:T:done: LoginSteps.WhenIClickOnSignInButton() (0.1s)
+2022-04-05T18:27:59.3881161+01:00:2022-04-05T18:27:59.3875572+01:00:Thread#0:B:And i click on members records button
+2022-04-05T18:27:59.4111703+01:00:2022-04-05T18:27:59.4107710+01:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Members Records']"}
+2022-04-05T18:27:59.4128893+01:00:2022-04-05T18:27:59.4125122+01:00:Thread#0:T:  (Session info: chrome=100.0.4896.75) (0.0s)
+2022-04-05T18:27:59.4135009+01:00:2022-04-05T18:27:59.4133029+01:00:Thread#0:B:And i click on add member button
+2022-04-05T18:27:59.4140240+01:00:2022-04-05T18:27:59.4137936+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4145250+01:00:2022-04-05T18:27:59.4143099+01:00:Thread#0:B:And i enter lastname "Jones"
+2022-04-05T18:27:59.4149845+01:00:2022-04-05T18:27:59.4148185+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4153079+01:00:2022-04-05T18:27:59.4151750+01:00:Thread#0:B:And i enter firstname "Ronke"
+2022-04-05T18:27:59.4156855+01:00:2022-04-05T18:27:59.4155377+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4160006+01:00:2022-04-05T18:27:59.4158750+01:00:Thread#0:B:And i click on gender dropdown arrow
+2022-04-05T18:27:59.4163264+01:00:2022-04-05T18:27:59.4161915+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4166403+01:00:2022-04-05T18:27:59.4164924+01:00:Thread#0:B:And i select gender
+2022-04-05T18:27:59.4169630+01:00:2022-04-05T18:27:59.4168294+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4172660+01:00:2022-04-05T18:27:59.4171150+01:00:Thread#0:B:And i click on marital status dropdown
+2022-04-05T18:27:59.4182351+01:00:2022-04-05T18:27:59.4174751+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4192881+01:00:2022-04-05T18:27:59.4190330+01:00:Thread#0:B:And i select marital status
+2022-04-05T18:27:59.4196528+01:00:2022-04-05T18:27:59.4194998+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4199668+01:00:2022-04-05T18:27:59.4198396+01:00:Thread#0:B:And i enter member email "ronke@gmail.com"
+2022-04-05T18:27:59.4212046+01:00:2022-04-05T18:27:59.4201714+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4226012+01:00:2022-04-05T18:27:59.4222397+01:00:Thread#0:B:And i enter phone number "07559202561"
+2022-04-05T18:27:59.4232787+01:00:2022-04-05T18:27:59.4230230+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4243117+01:00:2022-04-05T18:27:59.4236201+01:00:Thread#0:B:And i enter home address "2 Basket street"
+2022-04-05T18:27:59.4262394+01:00:2022-04-05T18:27:59.4259263+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4266827+01:00:2022-04-05T18:27:59.4264901+01:00:Thread#0:B:And i enter Date of Birth "03/08/2000"
+2022-04-05T18:27:59.4277928+01:00:2022-04-05T18:27:59.4272232+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4290096+01:00:2022-04-05T18:27:59.4288566+01:00:Thread#0:B:And i click on choose file to add picture
+2022-04-05T18:27:59.4293365+01:00:2022-04-05T18:27:59.4292104+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4295965+01:00:2022-04-05T18:27:59.4294932+01:00:Thread#0:B:And the picture is uploaded
+2022-04-05T18:27:59.4298941+01:00:2022-04-05T18:27:59.4297748+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4301676+01:00:2022-04-05T18:27:59.4300291+01:00:Thread#0:B:And i click on save
+2022-04-05T18:27:59.4304350+01:00:2022-04-05T18:27:59.4303345+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4306838+01:00:2022-04-05T18:27:59.4305808+01:00:Thread#0:B:Then Member added Successfully message is displayed
+2022-04-05T18:27:59.4309780+01:00:2022-04-05T18:27:59.4308539+01:00:Thread#0:T:skipped because of previous errors
+2022-04-05T18:27:59.4328039+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-04-05T18:27:59.4328511+01:00:Thread#:Scheduler: at the end of normal test queue
+2022-04-05T18:27:59.4328585+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-04-05T18:27:59.4328640+01:00:Thread#0:Scheduler: No more tests for thread
+2022-04-05T18:28:00.1423837+01:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 4.9806501 seconds
+2022-04-05T18:28:00.1525603+01:00:2022-04-05T18:28:00.1521794+01:00:Got Deinitialize Signal
+2022-04-05T18:28:00.1561137+01:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-04-05T18:28:00.1577605+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-04-05T18:28:00.1591181+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-04-05T18:28:00.1611755+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-05T18:28:00.1612008+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2022-04-05T18:28:00.1612090+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2022-04-05T18:28:00.1612201+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-05T18:28:00.1612223+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-04-05T18:28:00.1612557+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-04-05T18:28:00.1612774+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1'
+2022-04-05T18:28:00.1612855+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-04-05T18:28:00.1613769+01:00:Tfm: netcoreapp3.1
+2022-04-05T18:28:00.1613841+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-05T18:28:00.1613867+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-04-05T18:28:00.1614245+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-04-05T18:28:00.1614452+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\zdanm\source\repos\Cams\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-05T18:28:00.1709118+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23'
+2022-04-05T18:28:00.1709285+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\System.Diagnostics.Process.resources.dll'
+2022-04-05T18:28:00.1713936+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\System.Diagnostics.Process.resources.exe'
+2022-04-05T18:28:00.1714596+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23'
+2022-04-05T18:28:00.1718314+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23'
+2022-04-05T18:28:00.1718388+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.Process.resources.dll'
+2022-04-05T18:28:00.1718808+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.Process.resources.exe'
+2022-04-05T18:28:00.1719076+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23'
+2022-04-05T18:28:00.1728346+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23'
+2022-04-05T18:28:00.1728489+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23\System.Diagnostics.Process.resources.dll'
+2022-04-05T18:28:00.1731758+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23\System.Diagnostics.Process.resources.exe'
+2022-04-05T18:28:00.1732209+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23'
+2022-04-05T18:28:00.1754987+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-05T18:28:00.1836483+01:00:Thread#-1:Scheduler: get next test for thread -1
+2022-04-05T18:28:00.1837088+01:00:Thread#:Scheduler: at the end of normal test queue
+2022-04-05T18:28:00.1837146+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-04-05T18:28:00.1901640+01:00;Thread#12;Info;test run finished
+2022-04-05T18:28:00.1905478+01:00;Thread#12;Info;publishing test results
+2022-04-05T18:28:00.1908679+01:00;Thread#12;Info;Not publishing results.
+2022-04-05T18:28:00.1909689+01:00;Thread#12;Info;test results published
+2022-04-05T18:28:00.1910206+01:00;Thread#12;Info;generating reports
+2022-04-05T18:28:00.2801135+01:00;Thread#12;Info;Starting external report generation process
+2022-04-05T18:28:03.4474616+01:00;Thread#12;Info;Successfully generated reports.
+2022-04-05T18:28:03.4501797+01:00;Thread#12;Info;Successfully generated reports
+2022-04-05T18:28:03.4611775+01:00:Total: 1 (test executions: 3)
+2022-04-05T18:28:03.4629065+01:00:Succeeded: 0
+2022-04-05T18:28:03.4631354+01:00:Ignored: 0
+2022-04-05T18:28:03.4633019+01:00:Pending: 0
+2022-04-05T18:28:03.4633060+01:00:Skipped: 0
+2022-04-05T18:28:03.4634494+01:00:Failed: 1
+2022-04-05T18:28:03.4720224+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-04-05T18:28:03.4721767+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\zdanm\source\repos\Cams\TestResults\Unnamed project__2022-04-05T182737.html'
+========== End of log file ==========
